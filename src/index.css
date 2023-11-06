@@ -1,0 +1,127 @@
+.container {
+    align-items: flex-start;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    display: flex;
+    overflow: hidden;
+    padding-left:2.4rem;
+    position: relative;
+    width:100%;
+    }
+.groups{
+        flex-shrink: 0;
+        margin:3rem 4.8rem 0rem 0rem;
+        width:30rem;
+    }
+.pocketnotes{
+    
+        color :#000000;
+        font-family:Roboto, 'Source Sans Pro';
+        font-size:3.152rem;
+        font-weight:500;
+        letter-spacing:0.063rem;
+        line-height:1.1725;
+        margin-bottom:5rem;
+        white-space: nowrap;
+        
+}
+.button1{
+    border-radius:6px;
+    font-size:1rem;
+    background-color: black;
+    color:white;
+}
+.icon1{
+        align-items: center;
+        background-color:#0047ff;
+        border-radius:3.445rem;
+        color:#ffffff;
+        display:flex;
+        flex-shrink:0;
+        font-family:Roboto, 'Source Sans Pro';
+        font-size:1.5rem;
+        font-weight:500;
+        height:100%;
+        justify-content:center;
+        letter-spacing:0.5rem;
+        line-height:2;
+        margin-right: 2rem;
+        white-space:nowrap;
+        width:3rem;
+        
+}
+.cuveet-notes{
+        color: #000000;
+        flex-shrink:0;
+        font-family:Roboto, 'Source Sans Pro';
+        font-size:2rem;
+        font-weight: 500;
+        letter-spacing:.5;
+        line-height: 1rem;
+        margin-bottom: 1rem;
+        margin-top:-2rem;
+        margin-left:3.5rem;
+        white-space:nowrap;
+        
+}
+
+.container2{
+    align-items:center;
+    background-color: #f6ebdc;
+    box-sizing:border-box;
+    display:flex;
+    flex-direction:column;
+    flex-shrink:0;
+    height:46rem;
+    padding: 23.7rem 21.8rem 2.6rem 21.4rem;
+    width:120rem;
+}
+.image{
+    
+        flex-shrink: 0;
+        height:12rem;
+        width:30rem;
+        margin-right:50rem;
+        margin-top:-10rem;
+        object-fit:cover;
+        vertical-align:top;      
+}
+.pocket_notes{
+        margin-right:50rem;
+        margin-top:-5;
+        color:black;
+}
+.My-personal-grp{
+        color: #000000;
+        flex-shrink:0;
+        font-family:Roboto, 'Source Sans Pro';
+        font-size:1.5rem;
+        font-weight: 500;
+        letter-spacing:.5;
+        line-height: 1rem;
+        margin-bottom: 1rem;
+        margin-top:-2rem;
+        margin-left:3.5rem;
+        white-space:nowrap;
+}
+.icon2{
+        align-items: center;
+        background-color:#ae20a7;
+        border-radius:3.445rem;
+        color:#ffffff;
+        display:flex;
+        flex-shrink:0;
+        font-family:Roboto, 'Source Sans Pro';
+        font-size:1.5rem;
+        font-weight:500;
+        height:100%;
+        justify-content:center;
+        letter-spacing:0.5rem;
+        line-height:2;
+        margin-right: 2rem;
+        margin-top:3rem;
+        white-space:nowrap;
+        width:3rem;
+        
+
+}
